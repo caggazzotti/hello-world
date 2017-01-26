@@ -1,3 +1,4 @@
 # hello-world
-practice
+
 Learning GitHub is fun! 
+You should try it too
